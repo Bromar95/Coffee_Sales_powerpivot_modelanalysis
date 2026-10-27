@@ -99,7 +99,7 @@ This project builds on my Coffee Sales Dashboard by moving from lookup formulas 
 
 ## 🔗 Related Link
 
-[LinkedIn Post](https://www.linkedin.com/)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:share:7520824473374326784/)
 <!-- Replace with your LinkedIn post URL. -->
 
 ## 👨‍💻 Author
